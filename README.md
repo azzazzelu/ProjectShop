@@ -2,5 +2,5 @@
 >simple overview of use/purpose.
 
 + GETTING STARTED
- + HELP
+HELP
 Any advise for common problems or issues.
