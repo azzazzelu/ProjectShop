@@ -1,6 +1,5 @@
 # Project shop
-
-> simple overview of use/purpose.
+>simple overview of use/purpose.
 
 +GETTING STARTED
 
