@@ -1,9 +1,9 @@
-Project shop
+# Project shop
 
-simple overview of use/purpose.
+> simple overview of use/purpose.
 
-GETTING STARTED
++GETTING STARTED
 
-HELP
+ ++ HELP
 
-Any advise for common problems or issues.
+    Any advise for common problems or issues.
